@@ -1,2 +1,2 @@
 # analise_dados
-streamlit
+Construção da interface interativa em Streamlit
